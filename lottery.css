@@ -1,0 +1,28 @@
+#body {
+    text-align: center;
+    color: rgb(5, 107, 107);
+    font-size: 20px;
+    margin-top: 230px;
+    background-color: rgb(151, 196, 218);
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#popup{
+    text-align: center;
+}
+.modal-title{
+    align-items: center;
+    margin-left: 80px;
+}
+
+#btn{
+    color: rgb(91, 143, 143);
+    padding-bottom: 5px;
+}
+#btn:hover{
+    color:  rgb(68, 90, 90);
+    background-color: aquamarine;
+}
